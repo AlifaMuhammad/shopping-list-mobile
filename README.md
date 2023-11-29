@@ -1,0 +1,1 @@
+[# shopping-list-mobile](https://install.appcenter.ms/orgs/berkah-jaya-abadi/apps/shopping-list/distribution_groups/public)https://install.appcenter.ms/orgs/berkah-jaya-abadi/apps/shopping-list/distribution_groups/public
